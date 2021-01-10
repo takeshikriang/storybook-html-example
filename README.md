@@ -26,4 +26,4 @@ $ yarn build-storybook
 ```
 
 ## License
-[MIT](https://github.com/takeshikriang/storybook-html-example/blob/main/LICENSE)
+[MIT](https://github.com/takeshikriang/storybook-html-example/blob/master/LICENSE)
